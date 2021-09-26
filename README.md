@@ -19,9 +19,22 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+const AnhTuanPham69 = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "HTML/CSS", "PHP"],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      css: ["CSS", "bootstrap"],
+    },
+    backEnd: {
+      js: ["NodeJS","NextJS"],
+    },
+    databases: ["MySql", "JSON server"],
+  },
+  architecture: ["Single page applications", "E-commerce website", "WordPress"]
+};
 
 ### ⚡Working with GIT⚡
    <div align=center>
