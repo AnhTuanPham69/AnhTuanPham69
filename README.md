@@ -5,7 +5,6 @@
 - 🤔 I am looking for a job as a web developer<br/>
 - 🌱 I’m currently learning NextJs & ReactJs<br/> 
 - ⚡ Fun fact: I spend my free time on history, geography and game<br/>
-- [Click here to see my CV](https://nguyenthanhlong11.github.io/)
 <p>
  <img align="right" src="https://raw.githubusercontent.com/AnhTuanPham69/AnhTuanPham69/master/Assets/programmer.gif" width="300px alt="programmergif">
 </p>
