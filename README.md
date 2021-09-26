@@ -19,22 +19,50 @@
 <br/>
 <br/>
 <br/>
-  `const AnhTuanPham69 = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "HTML/CSS", "PHP"],
-  askMeAbout: ["web dev", "tech", "app dev"],
-  technologies: {
-    frontEnd: {
-      js: ["React"],
-      css: ["CSS", "bootstrap"],
-    },
-    backEnd: {
-      js: ["NodeJS","NextJS"],
-    },
-    databases: ["MySql", "JSON server"],
-  },
-  architecture: ["Single page applications", "E-commerce website", "WordPress"]
-};`
+**Languages and Tools I am Familiar With:**
+
+<code style="margin-right: 10px">
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</code>
+  
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+</code>
+
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+</code>
+
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+</code>
+
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+</code>
+
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
+</code>
+  <code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
+</code>
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+</code>
+<code>
+  <img height="20" src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667">
+</code>
+---
 
 ### ⚡Working with GIT⚡
    <div align=center>
