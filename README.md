@@ -2,9 +2,8 @@
 
 ### About me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="32px"/>
 - 😄 My name is Tuan<br/>
-- 🤔 I am looking for a job as a web developer<br/>
-- 🌱 I’m currently learning NextJs & ReactJs<br/> 
-- ⚡ Fun fact: I spend my free time on history, geography and game<br/>
+- 🌱 I am currently a student of Passerelles numériques Viet Nam<br/> 
+- ⚡ Fun fact: I am a lover of history, politics, defense and geography. The hobbies of an old man ^^<br/>
 
 ### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-ph%E1%BA%A1m-3b043921b/">
