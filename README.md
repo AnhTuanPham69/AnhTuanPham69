@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-ph%E1%BA%A1m-3b043921b/">
   <img align="left" alt="Phạm Anh Tuấn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://join.skype.com/invite/UwqRy00TIzKX">
+<a href="https://join.skype.com/invite/vbowtxWoUj1H">
   <img align="left" alt="Phạm Anh Tuấn'Skype" width="22px" src="http://simpleicon.com/wp-content/uploads/skype.png" />
 </a>
 <a href="https://www.facebook.com/atscorpius">
