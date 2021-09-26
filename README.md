@@ -5,20 +5,20 @@
 - 🤔 I am looking for a job as a web developer<br/>
 - 🌱 I’m currently learning NextJs & ReactJs<br/> 
 - ⚡ Fun fact: I spend my free time on history, geography and game<br/>
-<!-- - [Click here to see my CV](https://nguyenthanhlong11.github.io/) -->
+- [Click here to see my CV](https://nguyenthanhlong11.github.io/)
 <p>
  <img align="right" src="https://raw.githubusercontent.com/AnhTuanPham69/AnhTuanPham69/master/Assets/programmer.gif" width="300px alt="programmergif">
 </p>
 
 ### Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/thanh-long/">
-  <img align="left" alt="Thành Long's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-ph%E1%BA%A1m-3b043921b/">
+  <img align="left" alt="Phạm Anh Tuấn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://join.skype.com/invite/UwqRy00TIzKX">
-  <img align="left" alt="Thành long'Skype" width="22px" src="http://simpleicon.com/wp-content/uploads/skype.png" />
+  <img align="left" alt="Phạm Anh Tuấn'Skype" width="22px" src="http://simpleicon.com/wp-content/uploads/skype.png" />
 </a>
-<a href="https://www.facebook.com/thanh.long117/">
-  <img align="left" alt="Thành long's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/atscorpius">
+  <img align="left" alt="AnhTuấn Phạm Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a><br/>
 <br/>
 <br/>
@@ -55,6 +55,6 @@
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnhTuanPham69.AnhTuanPham69)
   </a>
   <a href="https://github.com/AnhTuanPham69">
-    <img href="https://github.com/nguyenthanhlong11" src="https://img.shields.io/github/forks/AnhTuanPham69/AnhTuanPham69"/>
+    <img href="https://github.com/AnhTuanPham69" src="https://img.shields.io/github/forks/AnhTuanPham69/AnhTuanPham69"/>
   </a>
  </div>
