@@ -10,7 +10,7 @@
   <img align="left" alt="Phạm Anh Tuấn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://join.skype.com/invite/vbowtxWoUj1H">
-  <img align="left" alt="Phạm Anh Tuấn'Skype" width="22px" src="![image](https://user-images.githubusercontent.com/91409719/135762179-f56d66f4-ce90-40ac-af9f-4e19ca4eef65.png)" />
+  <img align="left" alt="Phạm Anh Tuấn'Skype" width="22px" src="https://user-images.githubusercontent.com/91409719/135762179-f56d66f4-ce90-40ac-af9f-4e19ca4eef65.png" />
 </a>
 <a href="https://www.facebook.com/atscorpius">
   <img align="left" alt="AnhTuấn Phạm Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
