@@ -1,6 +1,6 @@
-<h2 align=center>  Hello, Welcome to my Github Profile! <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" /></h2>
+<h2 align=center>  Hello, Welcome to my Github Profile!
 
-## About me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="32px"/>
+## About me
 - My name is Phạm Anh Tuấn<br/>
 - I am currently a student of Passerelles numériques Viet Nam<br/> 
 - Fun fact: I am a lover of history, politics, defense and geography. The hobbies of an old man ^^<br/>
