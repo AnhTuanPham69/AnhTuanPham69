@@ -83,6 +83,11 @@
 <div align="center">
 </details>
 
+## Activity Graph
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=khanguyen01it&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
 ### If interested in me, please follow me! ❤️
 
 </div>
