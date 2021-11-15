@@ -27,6 +27,7 @@
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=AnhTuanPham69&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+
 ## Contact with me <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/anh-tu%E1%BA%A5n-ph%E1%BA%A1m-3b043921b/">
   <img align="left" alt="Phạm Anh Tuấn's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -38,6 +39,7 @@
   <img align="left" alt="AnhTuấn Phạm Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
+
 ## If interested in me, please follow me! ❤️
 
 </div>
