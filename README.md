@@ -19,13 +19,12 @@
    </div>
   <div align=center>
    <a href="https://github.com/AnhTuanPham69">
- 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnhTuanPham69&theme=gotham)](https://github.com/AnhTuanPham69/AnhTuanPham69)
   </a>
 </div>
 <div align="center">
 </details>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
    
 ## Activity Graph
 <div align="center">
