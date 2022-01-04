@@ -3,7 +3,7 @@
 ## About me
 - My name is Phạm Anh Tuấn<br/>
 - I am currently a student of Passerelles numériques Viet Nam<br/> 
-- Fun fact: I am a lover of history, politics, defense and geography. The hobbies of an old man ^^<br/>
+- Fun fact: I am a lover of history, politics, defense and geography <br/>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
    
 ## Working With Git
