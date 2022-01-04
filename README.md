@@ -7,6 +7,8 @@
 - I am currently a student of Passerelles numériques Viet Nam<br/> 
 - Fun fact: I am a lover of history, politics, defense and geography <br/>
    
+     <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+   
 ## Working With Git
 
    <div align=center>
@@ -19,7 +21,6 @@
    </div>
   <div align=center>
    <a href="https://github.com/AnhTuanPham69">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnhTuanPham69&theme=gotham)](https://github.com/AnhTuanPham69/AnhTuanPham69)
   </a>
 </div>
