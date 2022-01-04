@@ -7,15 +7,6 @@
 - I am currently a student of Passerelles numériques Viet Nam<br/> 
 - Fun fact: I am a lover of history, politics, defense and geography <br/>
    
-   
-   
-      <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-   
-   
-   
-   
-   
-   
 ## Working With Git
 
    <div align=center>
@@ -34,7 +25,8 @@
 </div>
 <div align="center">
 </details>
-
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+   
 ## Activity Graph
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=AnhTuanPham69&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
