@@ -10,7 +10,7 @@
      
    
 ## Working With Git
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="380" />
    <div align=center>
     <a href="https://github.com/AnhTuanPham69">
      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=AnhTuanPham69&show_icons=true&theme=gotham">
