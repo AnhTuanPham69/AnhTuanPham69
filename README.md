@@ -22,11 +22,6 @@
 </div>
 <div align="center">
 </details>
-   
-## Activity Graph
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AnhTuanPham69&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
 
 ## Contact with me
 <div align="center">
